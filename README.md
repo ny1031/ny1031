@@ -60,5 +60,3 @@ Personally diving deep into alignment (SFT, RLHF/RLVR) and modern architectures.
 - ✉️ [lana.ny@kakaocorp.com](mailto:lana.ny@kakaocorp.com)
 
 ---
-
-![Nayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ny1031&show_icons=true&hide_border=true)
