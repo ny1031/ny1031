@@ -40,6 +40,13 @@ Personally diving deep into alignment (SFT, RLHF/RLVR) and modern architectures.
 - **Building and Serving the Next Generation AI Models with JAX**  
   *Google Cloud Next '25*, Las Vegas, Apr 2025 · [[session]](https://cloud.withgoogle.com/next/25/session-library?session=BRK3-035)
 
+#### 📚 Selected Publications
+
+- **[Kanana: Compute-efficient Bilingual Language Models](https://arxiv.org/abs/2502.18934)**  
+  Kanana LLM Team, *arXiv preprint*, 2025
+- **[Clinical Note Owns its Hierarchy: Multi-Level Hypergraph Neural Networks for Patient-Level Representation Learning](https://github.com/ny1031/TM-HGNN)**  
+  Nayeon Kim et al., ***ACL 2023 (Oral)***
+
 #### 🛠 Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
