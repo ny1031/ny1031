@@ -5,6 +5,7 @@ Personally diving deep into alignment (SFT, RLHF/RLVR) and modern architectures.
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gucouBYAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayeon-kim-10b749212)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat&logoColor=white)](https://huggingface.co/ny1031)
 
 ---
 
