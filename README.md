@@ -56,7 +56,6 @@ Personally diving deep into alignment (SFT, RLHF/RLVR) and modern architectures.
 
 #### 📫 Reach me
 
-- 🌐 [Personal site](https://ny1031.github.io)
 - ✉️ [lana.ny@kakaocorp.com](mailto:lana.ny@kakaocorp.com)
 
 ---
